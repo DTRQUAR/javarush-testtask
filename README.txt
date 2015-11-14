@@ -5,3 +5,6 @@ JavaRushTestQuery_Ildar_Makhmutov.sql
 После развертывания на сервере томкэт
 приложение будет доступно по адресу: (или вместо 8080 другие цифры)
 http://localhost:8080/javarush-testtask/jvtestbd/main/users
+
+Видео работы приложения, можно скачать по ссылке:
+https://dropmefiles.com/W9oej
