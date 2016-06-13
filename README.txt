@@ -5,9 +5,5 @@
 тестовыми данными осуществляется с помощью sql запроса из файла:
 JavaRushTestQuery_Ildar_Makhmutov.sql
 
-После развертывания на сервере томкэт
-приложение будет доступно по урл:
+После деплоя в Томкэт приложение будет доступно по урл:
 http://localhost:8080/javarush-testtask/jvtestbd/main/users
-
-Видео работы приложения, можно скачать по ссылке:
-https://dropmefiles.com/W9oej
