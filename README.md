@@ -10,6 +10,7 @@ JavaRushTestQuery_Ildar_Makhmutov.sql
 После деплоя в Томкэт приложение будет доступно по урл:
 http://localhost:8080/javarush-testtask/jvtestbd/main/users
 
+===========================
 Используемые технологии:
 - Maven (для сборки проекта)	
 - Spring
